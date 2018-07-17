@@ -1,7 +1,9 @@
 # EmbeddinatorPlayground
 
 Version: 
-`Embeddinator-4000 v0.1 (0.4: 7664197)`
+```
+Embeddinator-4000 v0.1 (0.4: 7664197)
+```
 
 Logs:
 ```
