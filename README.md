@@ -1,5 +1,9 @@
 # EmbeddinatorPlayground
 
+This repo contains a playground project to report the following issue to Embeddinator-4000
+
+https://github.com/mono/Embeddinator-4000/issues/685
+
 Version: 
 ```
 Embeddinator-4000 v0.1 (0.4: 7664197)
